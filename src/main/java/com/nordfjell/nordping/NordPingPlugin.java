@@ -22,7 +22,7 @@ import java.util.Properties;
 @Plugin(
         id = "nordping",
         name = "NordPing",
-        version = "1.0.0",
+        version = "1.0.1",
         description = "Custom server-list version label for Nord Fjell",
         authors = {"Nord Fjell"}
 )
